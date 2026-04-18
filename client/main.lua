@@ -141,7 +141,7 @@ RegisterNetEvent('lootbox:client:spawnBox', function(boxId, model, coords)
         SetBlipSprite(blip, joaat(Config.Settings.BlipSprite), true)
         SetBlipScale(blip, Config.Settings.BlipScale)
         SetBlipName(blip, 'Loot Box')
-        
+        BlipAddModifier(blip, joaat(Config.Settings.BlipColor))
         SpawnedBoxes[boxId].blip = blip
     end
     

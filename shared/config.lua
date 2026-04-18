@@ -31,7 +31,7 @@ Config.Settings = {
     ShowBlips = true,
     BlipSprite = 'blip_chest', -- Barrel/box blip
     BlipScale = 0.5,
-    BlipColor = 5, -- Yellow
+    BlipColor = 'BLIP_MODIFIER_MP_COLOR_6',
 }
 
 -- Item pools for random loot generation
