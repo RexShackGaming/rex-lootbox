@@ -41,7 +41,7 @@ A RedM loot box system with configurable spawn locations, weighted item pools, s
 - **Spawn System**: Loot boxes spawn automatically at configured locations
 - **Third-Eye Interaction**: Use ox_target to interact with boxes (Open, Examine)
 - **Tiered Loot**: Three loot tiers with configurable probabilities (common 60%, uncommon 30%, rare 10%)
-- **Smoke Particles**: Optional visual effects on spawned boxes
+- **Smoke Particles**: Optional visual effects on spawned boxes (** TO DO **)
 - **Map Blips**: Yellow blips mark active box locations
 - **Progress Animations**: Immersive opening and item transfer animations
 
