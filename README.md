@@ -198,7 +198,7 @@ rex-lootbox/
 No special permissions required. The resource uses:
 - Standard RSG Core player functions
 - Standard RSG Inventory exports
-- Standard FiveM/RedM natives
+- Standard RedM natives
 
 ## Credits
 
