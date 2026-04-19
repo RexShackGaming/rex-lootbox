@@ -231,7 +231,7 @@ function OpenLootBox(boxId)
         useWhileDead = false,
         canCancel = true,
         anim = {
-            scenario = 'WORLD_HUMAN_CROUCH_DOWN'
+            scenario = 'WORLD_HUMAN_CROUCH_INSPECT'
         },
         disable = {
             move = true,
