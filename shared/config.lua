@@ -10,7 +10,30 @@ Config.LootBoxModels = {
 
 -- Spawn locations where loot boxes can appear
 Config.SpawnLocations = {
-    { coords = vec3(-57.17, 908.51, 208.70), radius = 1.5 },   -- valentine area
+    { coords = vec3(-57.17, 908.51, 208.70),     radius = 1.5 }, -- valentine area
+    { coords = vec3(-208.78, 300.17, 96.61),     radius = 1.5 }, -- valentine area
+    { coords = vec3(-663.75, 594.29, 105.59),    radius = 1.5 }, -- valentine area
+    { coords = vec3(-1601.78, -417.47, 176.33),  radius = 1.5 }, -- strawberry area
+    { coords = vec3(-1969.25, -293.48, 192.47),  radius = 1.5 }, -- strawberry area
+    { coords = vec3(-1710.02, -676.07, 153.75),  radius = 1.5 }, -- strawberry area
+    { coords = vec3(-889.42, -1083.10, 59.55),   radius = 1.5 }, -- blackwater area
+    { coords = vec3(-776.00, -1881.35, 54.76),   radius = 1.5 }, -- blackwater area
+    { coords = vec3(-759.87, -739.91, 53.18),    radius = 1.5 }, -- blackwater area
+    { coords = vec3(-3480.16, -2123.81, -1.03),  radius = 1.5 }, -- armadillo area
+    { coords = vec3(-4037.54, -2861.17, -8.09),  radius = 1.5 }, -- armadillo area
+    { coords = vec3(-3326.10, -2866.90, -6.07),  radius = 1.5 }, -- armadillo area
+    { coords = vec3(-5381.26, -2854.14, 13.26),  radius = 1.5 }, -- tumbleweed area
+    { coords = vec3(-5616.90, -3031.49, 2.59),   radius = 1.5 }, -- tumbleweed area
+    { coords = vec3(-5203.62, -3209.87, -18.10), radius = 1.5 }, -- tumbleweed area
+    { coords = vec3(2746.19, 1640.22, 157.87),   radius = 1.5 }, -- annesburg area
+    { coords = vec3(2691.07, 1219.02, 113.13),   radius = 1.5 }, -- annesburg area
+    { coords = vec3(2354.13, 1454.24, 143.54),   radius = 1.5 }, -- annesburg area
+    { coords = vec3(2248.42, -1103.35, 43.19),   radius = 1.5 }, -- stdenis area
+    { coords = vec3(2199.88, -1469.00, 41.72),   radius = 1.5 }, -- stdenis area
+    { coords = vec3(2633.19, -776.81, 42.36),    radius = 1.5 }, -- stdenis area
+    { coords = vec3(3236.00, -581.34, 42.85),    radius = 1.5 }, -- stdenis area (prison)
+    { coords = vec3(1130.27, -1505.16, 54.99),   radius = 1.5 }, -- rhodes area
+    { coords = vec3(1783.77, -1278.62, 42.59),   radius = 1.5 }, -- rhodes area
 }
 
 -- Loot box settings
